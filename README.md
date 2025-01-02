@@ -46,5 +46,3 @@ My main interests include **Spring Framework**, **database design**, and **API d
 - 🎯 Becoming a backend developer in the FinTech industry  
 
 ---
-
-<h3 align="center">"Consistency is the key to success!" 🚀</h3>
