@@ -37,4 +37,4 @@
 
 ---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=seojinyang&show_icons=true&locale=en" alt="westjin" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=westjin&show_icons=true&locale=en" alt="westjin" /></p>
