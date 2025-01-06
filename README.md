@@ -4,10 +4,7 @@ I'm a university student passionate about web application development, especiall
 My main interests include **Spring Framework**, **database design**, and **API development**.
 
 - 🌱 Currently learning Java and Spring Boot to improve my backend development skills.  
-- 🔭 Focused on studying algorithms and maintaining a "1 commit a day" habit.  
-- 🎯 My ultimate goal is to work in the **FinTech industry**, building reliable and secure systems.  
-- 📝 I actively document what I learn on my GitHub repositories.  
-
+- 🔭 Focused on studying algorithms 
 ---
 
 <h2 align="center">🌟 Skills & Tools 🌟</h2>
