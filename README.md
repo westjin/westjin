@@ -36,6 +36,8 @@ My main interests include **Spring Framework**, **database design**, and **API d
 
 ## 📊 GitHub Stats
 ![westjin's GitHub stats](https://github-readme-stats.vercel.app/api?username=westjin&show_icons=true&theme=tokyonight)
+![My GitHub Animal Farm](https://render.animals.github.dev/farms/westjin)
+
 
 ---
 
