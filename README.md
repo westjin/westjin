@@ -33,7 +33,12 @@ My main interests include **Spring Framework**, **database design**, and **API d
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </p>
 
+
+## 📊 GitHub Stats
+![westjin's GitHub stats](https://github-readme-stats.vercel.app/api?username=westjin&show_icons=true&theme=tokyonight)
+
 ---
+
 
 <h2 align="center">✨ Current Goals</h2>
 
