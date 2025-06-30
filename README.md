@@ -5,6 +5,7 @@ My main interests include **Spring Framework**, **database design**, and **API d
 
 - 🌱 Currently learning Java and Spring Boot to improve my backend development skills.  
 - 🔭 Focused on studying algorithms
+  
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=uko802)](https://solved.ac/uko802/)
 
 ---
