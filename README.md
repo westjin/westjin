@@ -4,7 +4,9 @@ I'm a university student passionate about web application development, especiall
 My main interests include **Spring Framework**, **database design**, and **API development**.
 
 - 🌱 Currently learning Java and Spring Boot to improve my backend development skills.  
-- 🔭 Focused on studying algorithms 
+- 🔭 Focused on studying algorithms
+- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=uko802)](https://solved.ac/uko802/)
+
 ---
 
 <h2 align="center">🌟 Skills & Tools 🌟</h2>
